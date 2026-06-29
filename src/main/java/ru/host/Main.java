@@ -15,3 +15,6 @@ public class Main {
         }
     }
 }
+    private static String getMessage(){
+    return "Hello QAQ WAY";
+    }
